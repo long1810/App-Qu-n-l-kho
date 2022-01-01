@@ -4,5 +4,5 @@
 # Giao điện chính
 
 <p align='center'>
-  <img src='Screenshot 2022-01-01 184741.png' width=1000'/>
+  <img src='Screenshot 2022-01-01 184741.png' width=100'/>
 </p>
